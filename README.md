@@ -1,6 +1,6 @@
 # LumiCore Weather
 
-Flutter Developer Assessment project: a weather app with repository pattern,
+A weather app with repository pattern,
 OpenWeather integration, recent searches, and offline cache support.
 
 ## Features
